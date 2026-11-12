@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.1.5",
+      "download_url": "https://github.com/TheDaedron/Wild-Arms-AP-Poptracker/releases/download/v0.1.5/WildArmsAP.zip",
+      "sha256": "7fe3c702a52f551aae25278ef5d8e406692656920d2aaa54a491c224564b04f1",
+      "changelog": [
+        "Check release notes"
+      ]
+    },
+    {
       "package_version": "0.1.4",
       "download_url": "https://github.com/TheDaedron/Wild-Arms-AP-Poptracker/releases/download/v0.1.4/WildArmsAP.zip",
       "sha256": "660eedd1bfa12ccfc33b9172adcef40788943502075b324fb619c397532a7276",
